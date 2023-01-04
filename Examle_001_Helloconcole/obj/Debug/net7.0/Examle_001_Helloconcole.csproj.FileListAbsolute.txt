@@ -1,0 +1,15 @@
+C:\Users\korbe\OneDrive\Документы\examples\Examle_001_Helloconcole\bin\Debug\net7.0\Examle_001_Helloconcole.exe
+C:\Users\korbe\OneDrive\Документы\examples\Examle_001_Helloconcole\bin\Debug\net7.0\Examle_001_Helloconcole.deps.json
+C:\Users\korbe\OneDrive\Документы\examples\Examle_001_Helloconcole\bin\Debug\net7.0\Examle_001_Helloconcole.runtimeconfig.json
+C:\Users\korbe\OneDrive\Документы\examples\Examle_001_Helloconcole\bin\Debug\net7.0\Examle_001_Helloconcole.dll
+C:\Users\korbe\OneDrive\Документы\examples\Examle_001_Helloconcole\bin\Debug\net7.0\Examle_001_Helloconcole.pdb
+C:\Users\korbe\OneDrive\Документы\examples\Examle_001_Helloconcole\obj\Debug\net7.0\Examle_001_Helloconcole.csproj.AssemblyReference.cache
+C:\Users\korbe\OneDrive\Документы\examples\Examle_001_Helloconcole\obj\Debug\net7.0\Examle_001_Helloconcole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korbe\OneDrive\Документы\examples\Examle_001_Helloconcole\obj\Debug\net7.0\Examle_001_Helloconcole.AssemblyInfoInputs.cache
+C:\Users\korbe\OneDrive\Документы\examples\Examle_001_Helloconcole\obj\Debug\net7.0\Examle_001_Helloconcole.AssemblyInfo.cs
+C:\Users\korbe\OneDrive\Документы\examples\Examle_001_Helloconcole\obj\Debug\net7.0\Examle_001_Helloconcole.csproj.CoreCompileInputs.cache
+C:\Users\korbe\OneDrive\Документы\examples\Examle_001_Helloconcole\obj\Debug\net7.0\Examle_001_Helloconcole.dll
+C:\Users\korbe\OneDrive\Документы\examples\Examle_001_Helloconcole\obj\Debug\net7.0\refint\Examle_001_Helloconcole.dll
+C:\Users\korbe\OneDrive\Документы\examples\Examle_001_Helloconcole\obj\Debug\net7.0\Examle_001_Helloconcole.pdb
+C:\Users\korbe\OneDrive\Документы\examples\Examle_001_Helloconcole\obj\Debug\net7.0\Examle_001_Helloconcole.genruntimeconfig.cache
+C:\Users\korbe\OneDrive\Документы\examples\Examle_001_Helloconcole\obj\Debug\net7.0\ref\Examle_001_Helloconcole.dll
